@@ -1,0 +1,168 @@
+body{
+    background-color: #F0F0F0;
+    font-family: 'Britanica-ExtraBold';
+}
+
+/*--------col's, margins and padding----------*/
+
+.col-12{
+    width: 100%;
+}
+
+.col-10{
+    width: 83%;
+}
+
+.col-8{
+    width: 66% ;
+}
+.col-7{
+    width: 58%;
+}
+
+.col-6{
+    width: 50%;
+}
+
+
+.col-5{
+    width: 41%;
+}
+
+.col-4{
+    width: 32%;
+}
+
+.col-3{
+    width: 25%;
+}
+
+.col-2{
+    width: 16%;
+}
+
+.col-1{
+    width: 8%;
+}
+
+.margintop40{
+    margin-top: 40px;
+}
+
+.marginright20{
+    margin-right: 20px;
+}
+
+.marginright117{
+    margin-right: 117px;
+}
+
+.marginbottom50{
+    margin-bottom: 50px;
+
+}
+
+.marginBottom53{
+    margin-bottom: 53px;
+}
+
+.marginBottom91{
+    margin-bottom: 91px;
+}
+
+.marginLeft91{
+    margin-left: 91px;
+}
+
+.marginRight55{
+    margin-right: 55px;
+}
+
+.marginleft130{
+    margin-left: 130px;
+}
+
+.paddingtop38{
+    padding-top: 38px;
+}
+
+.paddingbottom38{
+    padding-bottom: 38px;
+}
+
+.marginright765{
+    margin-right: 765px;
+}
+
+/*--------col's, margins and padding----------*/
+
+.h1{
+    font-size: 75px;
+}
+
+.h2{
+    font-size: 45px;
+
+}
+
+.h3{
+    font-size: 25px;
+}
+
+.myWork{
+    font-size: 75px;
+}
+
+.underlineMyWork {
+    height:2px;
+    float: left;
+    background-color: #272727;
+    width: 205px;
+    margin-top: -50px;
+    
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.cardRight{
+    background: #FF9243;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ width: 650px;
+ height: 640px;
+
+  }
+
+.cardRightinfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
+
+
+  .btn{
+    padding: 1.5rem;
+    color: #ededed;
+    background-color: #000000;
+    font-size: 25px;
+    width: 135px;
+    
+  }
+  
+  .p01{
+    display: flex;
+    flex-direction: column;
+}
+
+.item1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
